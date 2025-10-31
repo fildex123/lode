@@ -3,7 +3,7 @@
 ## Autoři
 - matyáš pokorný
 - filip chmelář
--tomáš popelka
+- tomáš popelka
 
 ## Popis hry
 Od klasických lodí se naše hra liší počtem hráčů který bude neomezený, novými typy útoků, volitelnou velikostí pole a počtu lodí a bota👞 protivníka(NN).

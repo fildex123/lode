@@ -3,5 +3,6 @@
     internal class hrac
     {
         int budget;
+        
     }
 }

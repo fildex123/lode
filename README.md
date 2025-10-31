@@ -17,8 +17,14 @@ umístění lodí i útoky na protihráče budou ovládané šipkami a potvrzeny
 ## Struktura programu
 _Popište hlavní třídy a jejich účel._
 
+## Specialní útoky
+torpédo
+opravář
+
 ## Spolupráce
-_Popište, jak jste si rozdělili práci a jak jste využili Git._
+popi-grafika
+fildex-bot
+mates-
 
 ## Známé problémy / omezení
 zatím vše

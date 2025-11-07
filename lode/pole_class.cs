@@ -1,10 +1,10 @@
 ﻿namespace lode
 {
-    internal class poleHrace
+    internal class PoleHrace
     {
         bool[,] jeLod;
 
-        public poleHrace(int vel)
+        public PoleHrace(int vel)
         {
             jeLod = new bool[vel, vel];
         } 

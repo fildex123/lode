@@ -1,4 +1,5 @@
-﻿namespace lode
+﻿using System;
+namespace lode
 {
     internal class Program
     {
